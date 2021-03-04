@@ -1,0 +1,14 @@
+h3{ 
+    color:blueviolet
+}
+.Paragraph{
+    color:purple
+}
+.Website{
+    display:flex;
+    justify-content: center;
+}
+.Social{
+    display:flex;
+    justify-content: flex-end;
+}
